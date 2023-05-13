@@ -23,7 +23,6 @@ ref: https://squidfunk.github.io/mkdocs-material/getting-started/
         name: material
 
 
-
 6. Run the server
     mkdocs serve
 
